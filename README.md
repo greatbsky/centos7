@@ -1,4 +1,4 @@
-# centos7
+# CentOS7
 docker images of centos7
 
 ## Supported Tags
